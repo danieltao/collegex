@@ -1,0 +1,4 @@
+#Sun Oct 29 10:39:51 EDT 2017
+base.0=/Users/Jingchao/Documents/GitHub/MyApplication/app/build/intermediates/transforms/dexMerger/debug/8
+renamed.0=classes.dex
+file.0=/Users/Jingchao/Documents/GitHub/MyApplication/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex
